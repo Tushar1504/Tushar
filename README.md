@@ -16,6 +16,6 @@ I'm passionate about Web Development and building websites that look great and w
 
 📫 Reach me at +91 8140326737
 ## 🔗 Contact Me At
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tusuportfolio.000webhostapp.com/))
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tusuportfolio.000webhostapp.com/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-prajapati-b96457206)
