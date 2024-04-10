@@ -1,7 +1,7 @@
 ![Logo](https://media.discordapp.net/attachments/1106481810273206293/1109007978146828368/GitHUb_nasu.png?width=1025&height=390)
 
 # Hi, I'm Tushar Prajapati! 👋
-## Web Developer.
+## Flutter Developer.
 Code👨‍💻, coffee☕, and creativity 🎨
 ## 🚀 About Me
 I'm passionate about Web Development and building websites that look great and work perfectly on any device.
@@ -9,8 +9,6 @@ I'm passionate about Web Development and building websites that look great and w
 
 
 ## Just feel free to conect with me
-
-🧠 I'm currently learning Data Structure and Algorithm.
 
 🧠 If you can dream it .... you can do it....
 
